@@ -21,7 +21,7 @@ if ($respon->code = 200) {
 }
 
 $banner = "
-=======================================
+============================================
                       
       mmmmm           mmmmm 
       MM `7MMM.     ,MMF'MM 
@@ -38,7 +38,7 @@ $banner = "
  Coded by  : Revan AR
  Team      : IndoSec
  Github    : https://github.com/revan-ar/
-=======================================\n";
+============================================\n";
 sleep(2);
 echo $banner;
 sleep(1);
